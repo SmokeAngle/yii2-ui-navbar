@@ -1,0 +1,21 @@
+{
+    "name": "vincent/yii2-ui-navbar",
+    "description": "yii2 ui navbar",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "miaochen",
+            "email": "382169722@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "vincent\\ui\\": ""
+        }
+    }
+}
